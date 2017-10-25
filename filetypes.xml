@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="emptyapp" type="PLAIN_TEXT" />
+      <mapping pattern="app-config" type="PLAIN_TEXT" />
+      <mapping pattern="WORKSPACE" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="ngrx" type="PLAIN_TEXT" />
+      <mapping pattern=".clang-format" type="PLAIN_TEXT" />
+      <mapping pattern="nx" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping ext="bazel" type="PLAIN_TEXT" />
+      <mapping ext="js__tmpl__" type="PLAIN_TEXT" />
+      <mapping ext="html__tmpl__" type="PLAIN_TEXT" />
+      <mapping ext="ts__tmpl__" type="PLAIN_TEXT" />
+      <mapping ext="bzl" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

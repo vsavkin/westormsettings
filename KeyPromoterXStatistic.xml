@@ -1,0 +1,264 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Add to VCS">
+        <Item>
+          <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
+          <ShortCut>'⌥⌘A'</ShortCut>
+          <Description>Add to VCS</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'⌘[' or '⌥⌘←' or 'Button4 Click' or '⌃⌥⇧W'</ShortCut>
+          <Description>Back</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Close">
+        <Item>
+          <ShortCut>'⌘W'</ShortCut>
+          <Description>Close</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'⌘K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare With...">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Compare With...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unnamed'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'Unnamed'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'app.test.js'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'app.test.js'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'application.test.js'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'application.test.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ng'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'ng'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ng.js'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'ng.js'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click' or '⌃⌥⇧⌘H'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>189</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Directory">
+        <Item>
+          <ShortCut>'⌘+D'</ShortCut>
+          <Description>Directory</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide">
+        <Item>
+          <ShortCut>'⇧⎋'</ShortCut>
+          <Description>Hide</Description>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="In Project">
+        <Item>
+          <ShortCut>'⌘+P'</ShortCut>
+          <Description>In Project</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Module">
+        <Item>
+          <ShortCut>'⌘+M'</ShortCut>
+          <Description>Module</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Unnamed'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Unnamed'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'app.test.js'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'app.test.js'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'application.test.js'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'application.test.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ng'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ng'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ng.js'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ng.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌥⌘Z'</ShortCut>
+          <Description>Revert...</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rollback">
+        <Item>
+          <ShortCut>'⌥⌘Z'</ShortCut>
+          <Description>Rollback</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Node.js dependencies installation for angular-cli/dist/@angular/cli/package.json'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Node.js dependencies installation for angular-cli/dist/@angular/cli/package.json'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unnamed'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Unnamed'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ng'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ng'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ng.js'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ng.js'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'⌘+6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'⌘F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Type Declaration">
+        <Item>
+          <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
+          <ShortCut>'⇧⌘B' or '⌃⇧B' or '⇧⌘Button1 Click' or '⇧Button2 Click'</ShortCut>
+          <Description>Type Declaration</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Excluded">
+        <Item>
+          <IdeaActionID>MarkExcludeRoot</IdeaActionID>
+          <Description>Excluded</Description>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>

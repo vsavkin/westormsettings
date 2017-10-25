@@ -1,0 +1,7 @@
+<templateSet group="Custom">
+  <template name="log" value="console.log($END$);" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
