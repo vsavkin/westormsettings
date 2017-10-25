@@ -232,7 +232,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
