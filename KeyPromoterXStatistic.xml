@@ -85,7 +85,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click' or '⌃⌥⇧⌘H'</ShortCut>
           <Description>Declaration</Description>
-          <Count>227</Count>
+          <Count>228</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -93,6 +93,14 @@
           <ShortCut>'⌘+D'</ShortCut>
           <Description>Directory</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Exclude All">
+        <Item>
+          <IdeaActionID>UsageView.Exclude</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Exclude All</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide">
