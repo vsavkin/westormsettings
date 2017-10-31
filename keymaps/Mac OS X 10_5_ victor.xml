@@ -1,4 +1,10 @@
 <keymap version="1" name="Mac OS X 10.5+ victor" parent="Mac OS X 10.5+">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
@@ -28,6 +34,9 @@
   </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
   </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorCloneCaretAbove">
