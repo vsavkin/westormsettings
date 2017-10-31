@@ -19,7 +19,6 @@
       <mask>*.spec.</mask>
       <mask>*.spec.ts</mask>
       <mask>*..ts</mask>
-      <mask>*.ts</mask>
       <mask>*te.ts</mask>
       <mask>*test.ts</mask>
       <mask>*s.ts</mask>
@@ -32,6 +31,8 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.json</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
