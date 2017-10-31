@@ -12,12 +12,6 @@
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="meta open_bracket" />
-    <keyboard-shortcut first-keystroke="meta alt left" />
-    <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt w" />
-  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -63,12 +57,6 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
   </action>
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
-    <keyboard-shortcut first-keystroke="meta alt right" />
-    <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
-  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -97,7 +85,7 @@
   </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt open_bracket" />
   </action>
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
