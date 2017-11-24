@@ -40,6 +40,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'⌘C'</ShortCut>
+          <Description>Copy</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Unnamed'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -264,7 +272,7 @@
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
           <ShortCut>'⇧⌘B' or '⌃⇧B' or '⇧⌘Button1 Click' or '⇧Button2 Click'</ShortCut>
           <Description>Type Declaration</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
     </option>
