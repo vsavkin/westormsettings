@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Dependencies from package.json" displayType="NONE" shouldLog="false" />
-    <notification groupId="Find Problems" displayType="STICKY_BALLOON" />
-  </component>
-</application>
