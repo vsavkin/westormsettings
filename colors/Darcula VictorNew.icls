@@ -1,10 +1,10 @@
-<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+<scheme name="Darcula VictorNew" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2016-12-20T09:22:49</property>
+    <property name="created">2017-12-12T11:35:07</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-12-12T11:34:40</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="ideVersion">2017.3.0.0</property>
+    <property name="modified">2017-12-12T11:35:33</property>
+    <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <attributes>
