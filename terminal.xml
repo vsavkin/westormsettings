@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <option name="myCopyOnSelection" value="false" />
     <option name="myOverrideIdeShortcuts" value="false" />
   </component>
 </application>
