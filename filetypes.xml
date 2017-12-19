@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="s" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
+      <removed_mapping ext="uml" type="UML" />
     </extensionMap>
   </component>
 </application>
