@@ -3,5 +3,6 @@
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="JAVADOC_INFO_DELAY" value="0" />
+    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
   </component>
 </application>
