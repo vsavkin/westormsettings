@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -30,6 +31,11 @@
       <mask>!yar.locak</mask>
       <mask>!yarn.locak</mask>
       <mask>!yarn.lock</mask>
+      <mask>!*</mask>
+      <mask>!*sp</mask>
+      <mask>!*spe</mask>
+      <mask>!*spec.</mask>
+      <mask>!*spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
