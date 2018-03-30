@@ -1,4 +1,4 @@
-<keymap version="1" name="Mac OS X 10.5+ desktop" parent="Mac OS X 10.5+">
+<keymap version="1" name="Mac OS X 10.5+ laptop" parent="Mac OS X 10.5+">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
@@ -8,13 +8,16 @@
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" />
   </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
   <action id="DomCollectionControl.Edit">
@@ -33,9 +36,6 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="ctrl back_space" />
-  </action>
   <action id="EditorScrollDown">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -47,44 +47,44 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
   <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt h" />
   </action>
   <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt u" />
-  </action>
-  <action id="GotoTypeDeclaration">
-    <mouse-shortcut keystroke="shift meta button1" />
-    <mouse-shortcut keystroke="shift button2" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt n" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
   <action id="HighlightUsagesInFile">
+    <keyboard-shortcut first-keystroke="shift meta f7" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt m" />
   </action>
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
-    <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
   <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift meta back_space" />
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
@@ -101,15 +101,10 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt i" />
   </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl left" />
-  </action>
   <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+    <keyboard-shortcut first-keystroke="meta y" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt j" />
-  </action>
-  <action id="ReformatCode" />
-  <action id="ReformatWithPrettierAction">
-    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="meta n" />
@@ -125,8 +120,8 @@
     <keyboard-shortcut first-keystroke="alt home" />
     <keyboard-shortcut first-keystroke="shift ctrl alt q" />
   </action>
-  <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="meta alt f7" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt k" />
   </action>
   <action id="SplitVertically">
@@ -150,7 +145,6 @@
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
-  <action id="Vcs.ReformatCommitMessage" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
