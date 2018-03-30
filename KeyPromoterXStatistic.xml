@@ -6,7 +6,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘Button1 Click' or 'Button2 Click' or '⌃⌥⇧⌘H'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
