@@ -9,6 +9,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reformat with Prettier">
+        <Item>
+          <IdeaActionID>ReformatWithPrettierAction</IdeaActionID>
+          <ShortCut>'⌥⌘L'</ShortCut>
+          <Description>Reformat with Prettier</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
