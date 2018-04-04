@@ -14,7 +14,15 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘Button1 Click' or 'Button2 Click' or '⌃⌥⇧⌘H'</ShortCut>
           <Description>Declaration</Description>
-          <Count>20</Count>
+          <Count>31</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Action...">
+        <Item>
+          <IdeaActionID>GotoAction</IdeaActionID>
+          <ShortCut>'⇧⌘A'</ShortCut>
+          <Description>Find Action...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat with Prettier">
