@@ -47,7 +47,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" />
+  </action>
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="meta f7" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
@@ -56,6 +60,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="meta alt g" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
@@ -63,7 +70,7 @@
   </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="meta alt button1" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt u" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt m" />
   </action>
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift meta button1" />
@@ -74,9 +81,7 @@
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
-  <action id="HighlightUsagesInFile">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt m" />
-  </action>
+  <action id="HighlightUsagesInFile" />
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
@@ -101,6 +106,7 @@
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt u" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt j" />
@@ -121,11 +127,10 @@
   </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt q" />
   </action>
   <action id="ShowSettingsAndFindUsages" />
   <action id="ShowUsages">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt k" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta back_slash" />
@@ -146,7 +151,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Switcher">
-    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="Vcs.ReformatCommitMessage" />
   <action id="Vcs.UpdateProject" />
