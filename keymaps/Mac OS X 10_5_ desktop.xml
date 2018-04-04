@@ -92,6 +92,9 @@
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
