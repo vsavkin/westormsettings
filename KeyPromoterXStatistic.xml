@@ -25,6 +25,14 @@
           <Count>50</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Exclude">
+        <Item>
+          <IdeaActionID>UsageView.Exclude</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Exclude</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find Action...">
         <Item>
           <IdeaActionID>GotoAction</IdeaActionID>
@@ -46,6 +54,14 @@
           <IdeaActionID>ReformatWithPrettierAction</IdeaActionID>
           <ShortCut>'⌥⌘L'</ShortCut>
           <Description>Reformat with Prettier</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove">
+        <Item>
+          <IdeaActionID>UsageView.Remove</IdeaActionID>
+          <ShortCut>'⌘X' or '⇧⌦'</ShortCut>
+          <Description>Remove</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
