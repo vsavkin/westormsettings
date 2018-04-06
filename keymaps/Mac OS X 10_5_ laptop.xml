@@ -89,17 +89,15 @@
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt y" />
-  </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl right" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt i" />
+    <keyboard-shortcut first-keystroke="shift meta y" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
